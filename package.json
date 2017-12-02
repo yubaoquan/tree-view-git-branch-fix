@@ -1,13 +1,13 @@
 {
   "name": "tree-view-git-branch-fix",
   "main": "./lib/main.js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Fix tree-view-git-branch package not working bug",
   "keywords": [
-        "tree-view",
-        "git",
-        "branch",
-        "tag"
+    "tree-view",
+    "git",
+    "branch",
+    "tag"
   ],
   "activationCommands": {
     "atom-workspace": "tree-view-git-branch-fix:toggle"
@@ -17,6 +17,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
