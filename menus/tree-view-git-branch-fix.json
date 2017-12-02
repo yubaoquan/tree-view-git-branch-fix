@@ -1,0 +1,10 @@
+{
+    "context-menu": {
+        ".tree-view": [
+            {
+                "label": "Reload branches and tags",
+                "command": "tree-view-git-branch-fix:reload"
+            }
+        ]
+    }
+}
