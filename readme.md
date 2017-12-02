@@ -2,11 +2,11 @@
 
 Currently the package [tree-view-git-branch]() is not working in my atom of version 1.23.0-beta1.
 
-I looked the repo of that package found it was not in development for 2 years.
+I looked the repo of that package and found it was not in development for 2 years.
 
 So I copied its code and fix the bug.
 
-I'm new to this package, so I only fix the base feature.
+I'm new to this package, so I only fix the basic features.
 
 ![demo](https://raw.githubusercontent.com/yubaoquan/yubaoquan.github.io/master/images/tree-view-git-branch/tree-view-git-branch-min.gif)
 
