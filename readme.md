@@ -1,6 +1,6 @@
 ## tree-view-git-branch-fix
 
-Currently the package [tree-view-git-branch]() is not working in my atom of version 1.23.0-beta1.
+Currently the package [tree-view-git-branch](https://atom.io/packages/tree-view-git-branch) is not working in my atom of version 1.23.0-beta1.
 
 I looked the repo of that package and found it was not in development for 2 years.
 
@@ -27,6 +27,10 @@ I'm new to this package, so I only fix the basic features.
 2. Configure single click or double click on branch list to expand or collapse it
 2. Configure single click or double click on branch item to switch to it
 3. Add configuration option: activate on startup
+
+### 0.2.1
+
+1. Update readme: add a lost link
 
 ### TODO:
 
