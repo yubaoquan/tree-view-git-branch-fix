@@ -9,9 +9,6 @@
     "branch",
     "tag"
   ],
-  "activationCommands": {
-    "atom-workspace": "tree-view-git-branch-fix:toggle"
-  },
   "repository": "https://github.com/yubaoquan/tree-view-git-branch-fix",
   "license": "MIT",
   "engines": {

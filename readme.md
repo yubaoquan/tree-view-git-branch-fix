@@ -16,10 +16,18 @@ I'm new to this package, so I only fix the basic features.
 2. switch the branch
 
 ### Change log:
+
+#### 0.1.0
+
 1. initialize
 
+#### 0.2.0
+
+1. Make toggle real toggle: when branch list is show, toggle will hide it, vise versa
+2. Configure single click or double click on branch list to expand or collapse it
+2. Configure single click or double click on branch item to switch to it
+3. Add configuration option: activate on startup
+
 ### TODO:
-1. Configure single click or double click on branch item to switch
-2. Fix expanding/collapsing the list not work sometime
-3. Show remote branches
-4. Add configuration option: activate on startup
+
+1. Show remote branches
