@@ -38,16 +38,16 @@ I'm new to this package, so I only fix the basic features, only tested with `loc
 2. Configure single click or double click on branch item to switch to it
 3. Add configuration option: activate on startup
 
-### 0.2.1
+#### 0.2.1
 
 1. Update readme: add a lost link
 
-### 0.3.0
+#### 0.3.0
 
 1. Add configure option `Show Remote`
 2. Checkout remote branch and auto track
 
-### 0.3.1
+#### 0.3.1
 
 1. Fix `location: before/inside` not working when opening multiple projects in a window
 
