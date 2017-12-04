@@ -47,6 +47,10 @@ I'm new to this package, so I only fix the basic features, only tested with `loc
 1. Add configure option `Show Remote`
 2. Checkout remote branch and auto track
 
+### 0.3.1
+
+1. Fix `location: before/inside` not working when opening multiple projects in a window
+
 ### TODO:
 
 1. Search branch name and scroll the screen to it.
