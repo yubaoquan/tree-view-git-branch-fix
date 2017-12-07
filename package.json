@@ -1,7 +1,7 @@
 {
   "name": "tree-view-git-branch-fix",
   "main": "./lib/main.js",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Fix tree-view-git-branch package not working bug",
   "keywords": [
     "tree-view",
