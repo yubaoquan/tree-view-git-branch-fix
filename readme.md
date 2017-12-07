@@ -70,6 +70,10 @@ I'm new to this package, so I only fix the basic features, only tested with `loc
 
 1. Move clipboardy from devDependencies to dependencies.
 
+#### 0.3.6
+
+1. Change way to get the project root, this will fix some bugs when add or remove project folder
+
 ### TODO:
 
 1. Search branch name and scroll the screen to it.
