@@ -20,7 +20,7 @@ I'm new to this package, so I only fix the basic features, only tested with `loc
 
 
 
-### Fix:
+###
 
 1. show the branch branch list
 2. switch the branch
@@ -50,6 +50,11 @@ I'm new to this package, so I only fix the basic features, only tested with `loc
 #### 0.3.1
 
 1. Fix `location: before/inside` not working when opening multiple projects in a window
+
+#### 0.3.2
+
+1. Fix `location: before/inside` not working in windows OS
+2. Fix wrong render of branch items in windows OS
 
 ### TODO:
 
