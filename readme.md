@@ -66,6 +66,10 @@ I'm new to this package, so I only fix the basic features, only tested with `loc
 2. Change notify to confirm modal, because notify has no delay option.
 3. Add copy variable log feature for user to report bug.
 
+#### 0.3.5
+
+1. Move clipboardy from devDependencies to dependencies.
+
 ### TODO:
 
 1. Search branch name and scroll the screen to it.

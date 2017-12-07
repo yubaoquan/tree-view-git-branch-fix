@@ -14,8 +14,9 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+      "clipboardy": "^1.2.2"
+  },
   "devDependencies": {
-    "clipboardy": "^1.2.2"
   }
 }
